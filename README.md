@@ -1,7 +1,7 @@
 # Sistema de Locadora de Veículos 
 
 **Curso:** Análise e Desenvolvimento de Sistemas  
-**Disciplina:** Programação Orientada a Objetos - INFOO8  
+**Disciplina:** Programação Orientada a Objetos - INF008  
 **Professor(a):** Sandro Santos Andrade  
 
 **Integrantes da Dupla (Listados em ordem alfabética):**  
