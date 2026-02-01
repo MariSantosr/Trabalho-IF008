@@ -25,7 +25,7 @@ O sistema de Locadora de Veículos foi desenvolvido com base nos arquivos fornec
 
 **1º Passo: Subir o Banco de Dados (Docker)**  
 
-1. Abrir o terminal na pasta do projeto, onde está localizado o docker-compose.yml e executar  ```bash
+1. Abrir o terminal na pasta do projeto, onde está localizado o docker-compose.yml e executar 
    docker-compose up
 
 2. Assim, o banco do MariaDB inicializará o script init.sql (também presente na pasta) e as tabelas serão criadas.
@@ -33,16 +33,19 @@ O sistema de Locadora de Veículos foi desenvolvido com base nos arquivos fornec
 3. No projeto, dentro do pacote "database", há uma classe DBTest, que checará se o banco de dados foi carregado no código.
 
 **2º Passo: Compilação do Projeto e geração dos Plugins**  
+
 Passo obrigatório que compilará o projeto e gerará automaticamente os arquivos .jar dos plugins, localizados na pasta target/plugins, permitindo que o sistema os carregue dinamicamente.
 
 Executar no terminal o comando:
  mvn clean package
 
 **3º Passo: Executar a Aplicação**
+
 Após o passo anterior, a interface gráfica deverá ser inicializada com o comando:
 mvn javafx:run
 
 **Teste de Remoção de Plugins**  
+
 1. Certificar de ter executado o passo 2.
 2. Navegar até a pasta gerada com a compilação: target/plugins
 3. Delete algum dos arquivos de plugin .jar (ex: car-rental-system-1.0-SNAPSHOT-suv.jar ou car-rental-system-1.0-SNAPSHOT-report1.jar)
