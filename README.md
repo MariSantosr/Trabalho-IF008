@@ -37,7 +37,7 @@ O sistema de Locadora de Veículos foi desenvolvido com base nos arquivos fornec
 ---
 
 # Vídeo da Apresentação  
-Segue abaixo o link para visualização da apresentação dos pontos centrais do Sistema para Locação de Veículos. O vídeo contém a participação de todos os integrantes e foi estruturado de forma a apresentação as decisões de estrutura e código centrais desenvolvidos durante a construção do sistema. Foi utilizada o software Active Presenter para a gravação do vídeo e o mesmo foi postado na plataforma Youtube.  
+Segue abaixo o link para visualização da apresentação dos pontos centrais do Sistema para Locação de Veículos. O vídeo contém a participação de todos os integrantes e foi estruturado de forma a apresentação as decisões de estrutura e código centrais desenvolvidos durante a construção do sistema. Foi utilizado o software Active Presenter para a gravação do vídeo e o mesmo foi postado na plataforma Youtube.  
 **Link do vídeo:**
 
 
